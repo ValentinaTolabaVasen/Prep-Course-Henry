@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-repo de prueba del prep course de henry
+esta es una prueba de como crear un repositorio y clonarlo de github a mi compu
